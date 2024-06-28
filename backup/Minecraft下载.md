@@ -33,3 +33,5 @@ mcmod:https://www.mcmod.cn/
 curseforge:https://www.curseforge.com/
 modrinth:https://modrinth.com/
 
+
+**如有错误，请联系whiteming28@gmail.com**
