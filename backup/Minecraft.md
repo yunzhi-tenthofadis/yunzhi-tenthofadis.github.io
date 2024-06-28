@@ -26,7 +26,7 @@ https://mc.163.com/
 
 > PCL2:https://afdian.net/p/0164034c016c11ebafcb52540025c377
 HMCL:https://hmcl.huangyuhui.net/
-BakaXL:https://www.bakaxl.com/  [已无法访问]
+~~BakaXL:https://www.bakaxl.com/~~  [已无法访问]
 
 
 - 期中游玩全球版本可以通过为游戏加载NeoForge[原Forge]和fabric来为游戏加载mod并游玩
