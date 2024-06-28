@@ -44,4 +44,6 @@ modrinth:https://modrinth.com/
 MCNav:https://www.mcnav.net/
 
 
-- **如有错误，请联系whiteming28@gmail.com**
+
+
+> **如有错误，请联系whiteming28@gmail.com**
