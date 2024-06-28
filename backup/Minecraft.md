@@ -39,7 +39,7 @@ Fabric:https://fabricmc.net/
 - 全球版本的mod多种多样，中国玩家一般使用mcmod、~~mcbbs~~[已关站]、Curseforge和modrinth，若想找更多资源网站，可以通过访问MCNav来寻找需要的网站
 
 > mcmod:https://www.mcmod.cn/
-~~mcbbs:https://www.mcbbs.net/~~[已关站]
+~~mcbbs:https://www.mcbbs.net/~~ [已关站]
 curseforge:https://www.curseforge.com/
 modrinth:https://modrinth.com/
 MCNav:https://www.mcnav.net/
