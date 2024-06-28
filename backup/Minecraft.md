@@ -1,3 +1,7 @@
+**Minecraft**
+![Minecraft cover-1.png](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/a4228173-4847-4f60-a29d-35fdd14e6d45)
+
+
 《我的世界》（英語：Minecraft，中國大陸譯作「我的世界」，香港和臺灣常用英文）是微軟旗下Mojang Studios開發的沙盒遊戲。遊戲中，玩家能在一個3D世界內與方塊或生物進行交互。遊戲中的特色功能包括探索世界、採集資源、合成物品及生存冒險等。《我的世界》有多種模式：生存模式中，玩家必須維持生命並開採資源以打造自己的世界；創造模式中，玩家擁有無限的資源並可自由地創作建築。
 
 
