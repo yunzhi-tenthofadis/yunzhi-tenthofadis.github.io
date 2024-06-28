@@ -32,6 +32,7 @@ Fabric:https://fabricmc.net/
 mcmod:https://www.mcmod.cn/
 curseforge:https://www.curseforge.com/
 modrinth:https://modrinth.com/
+MCNav:https://www.mcnav.net/
 
 
 **如有错误，请联系whiteming28@gmail.com**
