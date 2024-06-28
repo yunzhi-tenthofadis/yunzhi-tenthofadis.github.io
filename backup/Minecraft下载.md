@@ -4,5 +4,32 @@
 **详细可见**
 维基百科
 https://zh.wikipedia.org/zh-tw/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C?wprov=sfla1
-百度百科https://mbd.baidu.com/ma/s/MNhCSDtx
+百度百科
+https://mbd.baidu.com/ma/s/MNhCSDtx
+
+
+我的世界共计分为中国版本和全球版本，期中中国版本是由网易游戏于2016年5月20日在中国大陆运营
+
+全球版本官网
+https://www.minecraft.net/zh-hans
+中国版本官网
+https://mc.163.com/
+
+
+游玩中国版本只能通过网易游戏提供的官方启动器来启动游戏，但因为过于垃圾，以至于大部分有能力的玩家购入了全球版本。
+
+游玩全球版本不仅可以使用Mojang Studios提供的官方启动器来游玩，还可以使用一些第三方启动器，中国玩家一般使用PCL2、HMCL和BakaXL来登录微软正版账号进行游玩[当然也可以使用外置登录和离线登录游玩]
+PCL2:https://afdian.net/p/0164034c016c11ebafcb52540025c377
+HMCL:https://hmcl.huangyuhui.net/
+BakaXL:https://www.bakaxl.com/  [已关服务器]
+
+期中游玩全球版本可以通过为游戏加载NeoForge[原Forge]和fabric来使用mod并游玩
+NeoForge:https://neoforged.net/
+Forge:https://files.minecraftforge.net/net/minecraftforge/forge/
+Fabric:https://fabricmc.net/
+
+全球版本的mod多种多样，中国玩家一般使用mcmod、Curseforge和modrinth来下载mod[原来还有mcbbs，但是因为特殊原因已经关站，包括mcbbs国内镜像也关闭]，若想找更多资源网站，可以通过访问MCNav来寻找需要的网站
+mcmod:https://www.mcmod.cn/
+curseforge:https://www.curseforge.com/
+modrinth:https://modrinth.com/
 
