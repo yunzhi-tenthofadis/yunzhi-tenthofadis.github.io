@@ -11,7 +11,7 @@ https://zh.wikipedia.org/zh-tw/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C?wprov=sfla1
 https://mbd.baidu.com/ma/s/MNhCSDtx
 
 
-- 我的世界共计分为中国版本和全球版本，期中中国版本是由网易游戏于2016年5月20日在中国大陆运营
+- 我的世界共计分为中国版本和全球版本，期中中国版本是由网易游戏于2016年5月20日在中国大陆代理运营
 
 > 全球版本官网
 https://www.minecraft.net/zh-hans
@@ -29,7 +29,7 @@ HMCL:https://hmcl.huangyuhui.net/
 BakaXL:https://www.bakaxl.com/  [已无法访问]
 
 
-- 期中游玩全球版本可以通过为游戏加载NeoForge[原Forge]和fabric来使用mod并游玩
+- 期中游玩全球版本可以通过为游戏加载NeoForge[原Forge]和fabric来为游戏加载mod并游玩
 
 > NeoForge:https://neoforged.net/
 Forge:https://files.minecraftforge.net/net/minecraftforge/forge/
