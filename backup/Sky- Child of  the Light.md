@@ -15,7 +15,7 @@ Sky光遇分为两个版本，全球版本和中国版本
 全球版本:https://www.thatskygame.com/
 中国版本:https://sky.163.com/
 
-在全球版本里还分切正式版和测试版，期中测试版一般会比正式版的内容早出两个月，且需要在正式服需要金钱购入的礼包在测试服都是免费获得的，但是相对应的bug也比正式版多的多，且测试服需要在sky的官方Discord频道申请测试资格才能游玩[Discord:https://discord.com/invite/thatskygame]
+在全球版本里还分正式版和测试版，期中测试版一般会比正式版的内容早出两个月，且需要在正式服需要金钱购入的礼包在测试服都是免费获得的，但是相对应的bug也比正式版多的多，且测试服需要在sky的官方Discord频道申请测试资格才能游玩[Discord:https://discord.com/invite/thatskygame]
 
 **下载**
 全球版本的下载需要从Google提供的Android应用市场Google play store下载
