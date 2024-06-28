@@ -11,7 +11,6 @@ https://mbd.baidu.com/ma/s/NfS97afC
 
 - Sky光遇分为两个版本，全球版本和中国版本
 全球版本由thatgamecompany更新并运营，中国版本由网易游戏代理运营
-
 全球版本:https://www.thatskygame.com/
 中国版本:https://sky.163.com/
 
@@ -20,7 +19,7 @@ https://mbd.baidu.com/ma/s/NfS97afC
 - **下载**
 全球版本的下载需要从Google提供的Android应用市场Google play store下载或者Apple提供的iOS应用市场APP store下载。
 测试版本下载需要等待thatgamecompany于官方Discord发放资格申请入口并获取资格再从Google play store下载，iOS版本获取资格后需要现在APP store下载TestFlight，再从TestFlight下载测试版本。
-而中国版本可以从网易官网下载，也可以在各个中国手机应用市场里下载[在哪家应用市场下载就是哪家的渠道服]。
+> 而中国版本可以从网易官网下载，也可以在各个中国手机应用市场里下载[在哪家应用市场下载就是哪家的渠道服]。
 
 - **版本**
 全球版本为0.25.6.268169
