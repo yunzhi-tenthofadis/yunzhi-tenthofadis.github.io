@@ -21,7 +21,7 @@ https://mc.163.com/
 游玩全球版本不仅可以使用Mojang Studios提供的官方启动器来游玩，还可以使用一些第三方启动器，中国玩家一般使用PCL2、HMCL和BakaXL来登录微软正版账号进行游玩[当然也可以使用外置登录和离线登录游玩]
 PCL2:https://afdian.net/p/0164034c016c11ebafcb52540025c377
 HMCL:https://hmcl.huangyuhui.net/
-BakaXL:https://www.bakaxl.com/  [已关服务器]
+BakaXL:https://www.bakaxl.com/  [已无法访问]
 
 期中游玩全球版本可以通过为游戏加载NeoForge[原Forge]和fabric来使用mod并游玩
 NeoForge:https://neoforged.net/
