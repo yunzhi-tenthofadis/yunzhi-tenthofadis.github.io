@@ -59,7 +59,7 @@ Fabric:https://fabricmc.net/
 
 > ~~mcbbs:https://www.mcbbs.net/~~  [已关站]
 
-[https://www.mcnav.net/](url)
+[114514](url:https://www.mcnav.net/)
 
 
 
