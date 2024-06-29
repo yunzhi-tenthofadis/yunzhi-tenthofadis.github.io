@@ -6,7 +6,7 @@
 
 > **详细可见**
 维基百科
-https://zh.wikipedia.org/zh-tw/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C?wprov=sfla1
+https://zh.wikipedia.org/zh-cn/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C?wprov=sfla1
 百度百科
 https://mbd.baidu.com/ma/s/MNhCSDtx
 
@@ -43,7 +43,7 @@ Forge:https://files.minecraftforge.net/net/minecraftforge/forge/
 Fabric:https://fabricmc.net/
 
 
-- 全球版本的mod多种多样，中国玩家一般使用mcmod、~~mcbbs~~[已关站]、Curseforge和modrinth，若想找更多资源网站，可以通过访问MCNav来寻找需要的网站
+- 全球版本的mod多种多样，中国玩家一般使用[mcmod](https://www.mcmod.cn/)、~~mcbbs~~[已关站]、[Curseforge](https://www.curseforge.com/minecraft)和[modrinth](https://modrinth.com/mods)，若想找更多资源网站，可以通过访问[MCNav](https://www.mcnav.net/)来寻找需要的网站
 
 > mcmod:https://www.mcmod.cn/
 ![mcmod](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/af4abab1-252e-4c27-aca7-566f2e632800)
