@@ -15,8 +15,11 @@ https://mbd.baidu.com/ma/s/MNhCSDtx
 
 > 全球版本官网
 https://www.minecraft.net/zh-hans
-中国版本官网
-https://mc.163.com/
+![欢迎来到 Minecraft 官方网站 _ Minecraft 和另外 2 个页面 - 用户配置 1 - Microsoft​ Edge 2024_6_29 11_26_01](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/135a9764-6c06-4fc2-8a85-cb2740df4f4c)
+
+> 中国版本官网
+https://mc.163.com/index.html
+![我的世界-冒险之歌 和另外 4 个页面 - 用户配置 1 - Microsoft​ Edge 2024_6_29 11_29_28](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/48962ac5-dbe5-4f35-aa7c-9066ad8b4f61)
 
 
 - 游玩中国版本只能通过网易游戏提供的官方启动器来启动游戏，但因为过于垃圾，以至于大部分有能力的玩家购入了全球版本。
