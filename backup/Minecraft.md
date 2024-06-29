@@ -25,12 +25,16 @@ https://mc.163.com/index.html
 - 游玩中国版本只能通过网易游戏提供的官方启动器来启动游戏，但因为过于垃圾，以至于大部分有能力的玩家购入了全球版本。
 
 
-- 游玩全球版本不仅可以使用Mojang Studios提供的官方启动器来游玩，还可以使用一些第三方启动器，中国玩家一般使用PCL2、HMCL和~~BakaXL~~来登录微软正版账号进行游玩[当然也可以使用外置登录和离线登录游玩]
+- 游玩全球版本不仅可以使用Mojang Studios提供的官方启动器来游玩，还可以使用一些第三方启动器，中国玩家一般使用PCL2、HMCL和BakaXL来登录微软正版账号进行游玩[当然也可以使用外置登录和离线登录游玩]
 
 > PCL2:https://afdian.net/p/0164034c016c11ebafcb52540025c377
-HMCL:https://hmcl.huangyuhui.net/
-~~BakaXL:https://www.bakaxl.com/~~  [已无法访问]
+![R](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/1f4544c9-05dd-48db-b27d-e2f935377a90)
 
+> HMCL:https://hmcl.huangyuhui.net/
+![OIP](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/abb1d7f2-d721-40f5-b121-a642d4c17fb0)
+
+> BakaXL:https://www.bakaxl.com/
+![OIP-C](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/5b9e9195-f550-488f-afb7-dc27846db42a)
 
 - 期中游玩全球版本可以通过为游戏加载NeoForge[原Forge]和fabric来为游戏加载mod并游玩
 
