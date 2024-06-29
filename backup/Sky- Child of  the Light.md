@@ -33,6 +33,6 @@ Sky光遇分为两个版本，全球版本和中国版本
 **中国版本**为0.12.7.36466
 
 
-Gmeek-html<img src="https://picsum.photos/200">
+
 
 > **若有补充或改错，请联系whiteming28@gmail.com**
