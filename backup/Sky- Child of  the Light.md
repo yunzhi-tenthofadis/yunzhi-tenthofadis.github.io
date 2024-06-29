@@ -2,7 +2,7 @@
 ![mmexport1719569396338.jpg](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/638b0e51-2953-434c-87af-64f5598af29b)
 
 
-- 《**Sky光·遇**》（英语：Sky: Children of the Light），是一部由[thatgamecompany](https://zh.wikipedia.org/wiki/Thatgamecompany)开发并发行在[iOS](https://zh.wikipedia.org/wiki/IOS)、[Android](https://zh.wikipedia.org/wiki/Android)、[任天堂Switch](https://zh.wikipedia.org/wiki/%E4%BB%BB%E5%A4%A9%E5%A0%82Switch)、[PlayStation 4](https://zh.wikipedia.org/wiki/PlayStation_4)与[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows)(steam)平台上的社交游戏。本作是thatgamecompany继《[风之旅人](https://zh.wikipedia.org/wiki/%E9%A3%8E%E4%B9%8B%E6%97%85%E4%BA%BA)》时隔5年的新作品，也是thatgamecompany完成与索尼合作后独立自主发行的首个作品。
+- 《**Sky光·遇**》（英语：**Sky: Children of the Light**），是一部由[thatgamecompany](https://zh.wikipedia.org/wiki/Thatgamecompany)开发并发行在[iOS](https://zh.wikipedia.org/wiki/IOS)、[Android](https://zh.wikipedia.org/wiki/Android)、[任天堂Switch](https://zh.wikipedia.org/wiki/%E4%BB%BB%E5%A4%A9%E5%A0%82Switch)、[PlayStation 4](https://zh.wikipedia.org/wiki/PlayStation_4)与[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows)(steam)平台上的社交游戏。本作是thatgamecompany继《[风之旅人](https://zh.wikipedia.org/wiki/%E9%A3%8E%E4%B9%8B%E6%97%85%E4%BA%BA)》时隔5年的新作品，也是thatgamecompany完成与索尼合作后独立自主发行的首个作品。
 > 维基百科
 https://zh.wikipedia.org/zh-cn/Sky%E5%85%89%C2%B7%E9%81%87?wprov=sfla1
 百度百科
