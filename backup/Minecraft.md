@@ -46,10 +46,18 @@ Fabric:https://fabricmc.net/
 - 全球版本的mod多种多样，中国玩家一般使用mcmod、~~mcbbs~~[已关站]、Curseforge和modrinth，若想找更多资源网站，可以通过访问MCNav来寻找需要的网站
 
 > mcmod:https://www.mcmod.cn/
-~~mcbbs:https://www.mcbbs.net/~~ [已关站]
-curseforge:https://www.curseforge.com/
-modrinth:https://modrinth.com/
-MCNav:https://www.mcnav.net/
+![mcmod](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/af4abab1-252e-4c27-aca7-566f2e632800)
+
+> curseforge:https://www.curseforge.com/minecraft
+![CurseForge](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/2a3c86e9-b6a9-4640-94a9-61d9bdc4926f)
+
+> modrinth:https://modrinth.com/mods
+![modrinth](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/d71fb393-8c5f-4c6a-9d5c-14f19746886c)
+
+> MCNav:https://www.mcnav.net/
+![MCNav](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/cbd9ea69-e7bb-469d-961b-3217d3ba1362)
+
+> ~~mcbbs:https://www.mcbbs.net/~~ [已关站]
 
 
 
