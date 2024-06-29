@@ -11,6 +11,8 @@ https://zh.wikipedia.org/zh-cn/Sky%E5%85%89%C2%B7%E9%81%87?wprov=sfla1
 https://mbd.baidu.com/ma/s/NfS97afC
 
 
+
+
 - **服务器**
 Sky光遇分为两个版本，全球版本和中国版本
 全球版本由thatgamecompany更新并运营，中国版本由网易游戏代理运营
@@ -22,11 +24,14 @@ Sky光遇分为两个版本，全球版本和中国版本
 ![光遇手游官网-光是遇见就很美好 和另外 3 个页面 - 用户配置 1 - Microsoft​ Edge 2024_6_29 14_07_35](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/3b8a56f1-6427-4126-bea4-67e9d24f8f2a)
 
 
+
+
 - 在全球版本里还分正式版和测试版，期中测试版一般会比正式版的内容早出两个月，且需要在正式服需要金钱购入的礼包在测试服都是免费获得的，但是相对应的bug也比正式版多的多，且测试服需要在sky的官方Discord频道申请测试资格才能游玩
 
 > [!NOTE]
 > Discord:https://discord.com/invite/thatskygame
 ![天空：光之子 ·问题 #2 ·云之-tenthofadis_云之-tenthofadis github io 和另外 3 个页面 - 用户配置 1 - Microsoft​ Edge 2024_6_29 14_12_28](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/bf9ce6cb-0792-4cd1-8377-23feea99ab04)
+
 
 
 
