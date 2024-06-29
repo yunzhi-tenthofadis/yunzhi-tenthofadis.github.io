@@ -63,5 +63,3 @@ https://mc.163.com/index.html
 
 
 > _**如有错误，请联系whiteming28@gmail.com**_
-![YunzhiTenthofadis-jpg.png](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/d2278dcd-fe37-447a-b98b-e32eb57cdb53)
-
