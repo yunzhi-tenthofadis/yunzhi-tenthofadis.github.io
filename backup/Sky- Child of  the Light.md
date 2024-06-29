@@ -16,10 +16,10 @@ https://mbd.baidu.com/ma/s/NfS97afC
 - **服务器**
 Sky光遇分为两个版本，全球版本和中国版本
 全球版本由thatgamecompany更新并运营，中国版本由网易游戏代理运营。
-> 全球版本:https://www.thatskygame.com/
-![光遇手游官网-光是遇见就很美好 和另外 3 个页面 - 用户配置 1 - Microsoft​ Edge 2024_6_29 14_07_41](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/56d38644-89af-4126-886c-214f80d37a8c)
 
 > [!NOTE]
+> 全球版本:https://www.thatskygame.com/
+![光遇手游官网-光是遇见就很美好 和另外 3 个页面 - 用户配置 1 - Microsoft​ Edge 2024_6_29 14_07_41](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/56d38644-89af-4126-886c-214f80d37a8c)
 > 中国版本:https://sky.163.com/index.html
 ![光遇手游官网-光是遇见就很美好 和另外 3 个页面 - 用户配置 1 - Microsoft​ Edge 2024_6_29 14_07_35](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/3b8a56f1-6427-4126-bea4-67e9d24f8f2a)
 
