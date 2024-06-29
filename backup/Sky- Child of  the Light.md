@@ -33,11 +33,6 @@ Sky光遇分为两个版本，全球版本和中国版本
 **中国版本**为0.12.7.36466
 
 
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-
-`<!-- This content will not appear in the rendered Markdown -->`
-
 
 
 > **若有补充或改错，请联系whiteming28@gmail.com**
