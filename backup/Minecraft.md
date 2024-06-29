@@ -11,7 +11,7 @@ https://zh.wikipedia.org/zh-tw/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C?wprov=sfla1
 https://mbd.baidu.com/ma/s/MNhCSDtx
 
 
-- 我的世界共计分为中国版本和全球版本，期中中国版本是由网易游戏于2016年5月20日在中国大陆代理运营
+- 我的世界共计分为[中国版本](https://mc.163.com/index.html)和[全球版本](https://www.minecraft.net/zh-hans)，期中中国版本是由网易游戏于2016年5月20日在中国大陆代理运营
 
 > 全球版本官网
 https://www.minecraft.net/zh-hans
@@ -25,7 +25,7 @@ https://mc.163.com/index.html
 - 游玩中国版本只能通过网易游戏提供的官方启动器来启动游戏，但因为过于垃圾，以至于大部分有能力的玩家购入了全球版本。
 
 
-- 游玩全球版本不仅可以使用Mojang Studios提供的官方启动器来游玩，还可以使用一些第三方启动器，中国玩家一般使用PCL2、HMCL和BakaXL来登录微软正版账号进行游玩[当然也可以使用外置登录和离线登录游玩]
+- 游玩全球版本不仅可以使用Mojang Studios提供的官方启动器来游玩，还可以使用一些第三方启动器，中国玩家一般使用[PCL2](https://afdian.net/p/0164034c016c11ebafcb52540025c377)、[HMCL](https://hmcl.huangyuhui.net/)和[BakaXL](https://www.bakaxl.com/)来登录微软正版账号进行游玩[当然也可以使用外置登录和离线登录游玩]
 
 > PCL2:https://afdian.net/p/0164034c016c11ebafcb52540025c377
 ![R](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/1f4544c9-05dd-48db-b27d-e2f935377a90)
@@ -36,7 +36,7 @@ https://mc.163.com/index.html
 > BakaXL:https://www.bakaxl.com/
 ![OIP-C](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/5b9e9195-f550-488f-afb7-dc27846db42a)
 
-- 期中游玩全球版本可以通过为游戏加载NeoForge[原Forge]和fabric来为游戏加载mod并游玩
+- 期中游玩全球版本可以通过为游戏加载[NeoForge](https://neoforged.net/)[原[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)]和[fabric](https://fabricmc.net/)来为游戏加载mod并游玩
 
 > NeoForge:https://neoforged.net/
 Forge:https://files.minecraftforge.net/net/minecraftforge/forge/
@@ -59,7 +59,6 @@ Fabric:https://fabricmc.net/
 
 > ~~mcbbs:https://www.mcbbs.net/~~  [已关站]
 
-[114514](url:https://www.mcnav.net/)
 
 
 
