@@ -2,7 +2,7 @@
 ![mmexport1719569396338.jpg](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/638b0e51-2953-434c-87af-64f5598af29b)
 
 
-- 《Sky光·遇》（英语：Sky: Children of the Light），是一部由thatgamecompany开发并发行在iOS、Android、任天堂Switch、PlayStation 4与Microsoft Windows(steam)平台上的社交游戏。本作是thatgamecompany继《风之旅人》时隔5年的新作品，也是thatgamecompany完成与索尼合作后独立自主发行的首个作品。
+- 《**Sky光·遇**》（英语：Sky: Children of the Light），是一部由[thatgamecompany](https://zh.wikipedia.org/wiki/Thatgamecompany)开发并发行在[iOS](https://zh.wikipedia.org/wiki/IOS)、[Android](https://zh.wikipedia.org/wiki/Android)、[任天堂Switch](https://zh.wikipedia.org/wiki/%E4%BB%BB%E5%A4%A9%E5%A0%82Switch)、[PlayStation 4](https://zh.wikipedia.org/wiki/PlayStation_4)与[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows)(steam)平台上的社交游戏。本作是thatgamecompany继《[风之旅人](https://zh.wikipedia.org/wiki/%E9%A3%8E%E4%B9%8B%E6%97%85%E4%BA%BA)》时隔5年的新作品，也是thatgamecompany完成与索尼合作后独立自主发行的首个作品。
 > 维基百科
 https://zh.wikipedia.org/zh-cn/Sky%E5%85%89%C2%B7%E9%81%87?wprov=sfla1
 百度百科
@@ -13,7 +13,7 @@ https://mbd.baidu.com/ma/s/NfS97afC
 Sky光遇分为两个版本，全球版本和中国版本
 全球版本由thatgamecompany更新并运营，中国版本由网易游戏代理运营
 > 全球版本:https://www.thatskygame.com/
-中国版本:https://sky.163.com/
+中国版本:https://sky.163.com/index.html
 
 
 - 在全球版本里还分正式版和测试版，期中测试版一般会比正式版的内容早出两个月，且需要在正式服需要金钱购入的礼包在测试服都是免费获得的，但是相对应的bug也比正式版多的多，且测试服需要在sky的官方Discord频道申请测试资格才能游玩
