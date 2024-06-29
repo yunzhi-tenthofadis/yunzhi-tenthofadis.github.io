@@ -4,7 +4,6 @@
 
 - 《Sky光·遇》（英语：Sky: Children of the Light），是一部由thatgamecompany开发并发行在iOS、Android、任天堂Switch、PlayStation 4与Microsoft Windows(steam)平台上的社交游戏。本作是thatgamecompany继《风之旅人》时隔5年的新作品，也是thatgamecompany完成与索尼合作后独立自主发行的首个作品。
 
-> [!TIP]
 > 维基百科
 https://zh.wikipedia.org/zh-cn/Sky%E5%85%89%C2%B7%E9%81%87?wprov=sfla1
 百度百科
