@@ -39,7 +39,7 @@ https://mc.163.com/index.html
 **Fabric**:https://fabricmc.net/
 
 
-- 全球版本的mod多种多样，中国玩家一般使用[mcmod](https://www.mcmod.cn/)、~~mcbbs~~[已关站]、[Curseforge](https://www.curseforge.com/minecraft)和[modrinth](https://modrinth.com/mods)，若想找更多资源网站，可以通过访问[MCNav](https://www.mcnav.net/)来寻找需要的网站
+- 全球版本的mod多种多样，中国玩家一般使用[mcmod](https://www.mcmod.cn/)、~~MCBBS中文论坛~~[已关站]、[Curseforge](https://www.curseforge.com/minecraft)和[modrinth](https://modrinth.com/mods)，若想找更多资源网站，可以通过访问[MCNav](https://www.mcnav.net/)来寻找需要的网站
 > [!NOTE]
 > **mcmod**:https://www.mcmod.cn/
 ![mcmod](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/af4abab1-252e-4c27-aca7-566f2e632800)
@@ -51,12 +51,12 @@ https://mc.163.com/index.html
 ![MCNav](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/cbd9ea69-e7bb-469d-961b-3217d3ba1362)
 
 > [!WARNING]
-> ~~**mcbbs**:https://www.mcbbs.net/~~  [已关站]
+> ~~**MCBBS中文论坛**:https://www.mcbbs.net/~~  [已关站]
 
 - **国内游戏下载镜像站**
 长期以来，因为Mojang Studios的MC下载源在国外，以至于国内玩家下载MC本体的时候会很慢，有时候还会出现无法下载的情况，所以国内就出现了MC下载镜像源这种东西。镜像源共有两个，一个是由[bangbang93](https://afdian.net/a/bangbang93)开发并维护的BMCLAPI，还有一个是MCBBS基于BMCLAPI建立的镜像源。
 > [!CAUTION]
-> MCBBS镜像源因为MCBBS中文论坛于2024年2月19日宣布永久关闭之后无法使用，这导致了大量流量涌入了BMCLAPI使得BMCLAPI一度处于崩溃的边缘。
+> MCBBS镜像源因为MCBBS中文论坛于2024年1月22日关站维护之后无法使用，这导致了大量流量涌入了BMCLAPI使得BMCLAPI一度处于崩溃的边缘，一直到2024年2月19日MCBBS中文论坛发布关站公告之后便永久关闭
 
 
 > [!IMPORTANT]
