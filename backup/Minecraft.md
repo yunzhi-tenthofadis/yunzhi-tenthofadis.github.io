@@ -15,7 +15,6 @@ https://mbd.baidu.com/ma/s/MNhCSDtx
 > **全球版本官网**
 https://www.minecraft.net/zh-hans
 ![欢迎来到 Minecraft 官方网站 _ Minecraft 和另外 2 个页面 - 用户配置 1 - Microsoft​ Edge 2024_6_29 11_26_01](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/135a9764-6c06-4fc2-8a85-cb2740df4f4c)
-> [!NOTE]
 > **中国版本官网**
 https://mc.163.com/index.html
 ![我的世界-冒险之歌 和另外 4 个页面 - 用户配置 1 - Microsoft​ Edge 2024_6_29 11_29_28](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/48962ac5-dbe5-4f35-aa7c-9066ad8b4f61)
@@ -28,10 +27,8 @@ https://mc.163.com/index.html
 > [!NOTE]
 > **PCL2**:https://afdian.net/p/0164034c016c11ebafcb52540025c377
 ![R](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/1f4544c9-05dd-48db-b27d-e2f935377a90)
-> [!NOTE]
 > **HMCL**:https://hmcl.huangyuhui.net/
 ![OIP](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/abb1d7f2-d721-40f5-b121-a642d4c17fb0)
-> [!NOTE]
 > **BakaXL**:https://www.bakaxl.com/
 ![OIP-C](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/5b9e9195-f550-488f-afb7-dc27846db42a)
 
@@ -46,15 +43,13 @@ https://mc.163.com/index.html
 > [!NOTE]
 > **mcmod**:https://www.mcmod.cn/
 ![mcmod](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/af4abab1-252e-4c27-aca7-566f2e632800)
-> [!NOTE]
 > **curseforge**:https://www.curseforge.com/minecraft
 ![CurseForge](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/2a3c86e9-b6a9-4640-94a9-61d9bdc4926f)
-> [!NOTE]
 > **modrinth**:https://modrinth.com/mods
 ![modrinth](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/d71fb393-8c5f-4c6a-9d5c-14f19746886c)
-> [!NOTE]
 > **MCNav**:https://www.mcnav.net/
 ![MCNav](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/cbd9ea69-e7bb-469d-961b-3217d3ba1362)
+
 > [!WARNING]
 > ~~**mcbbs**:https://www.mcbbs.net/~~  [已关站]
 
