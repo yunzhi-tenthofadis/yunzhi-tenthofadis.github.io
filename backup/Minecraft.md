@@ -1,8 +1,7 @@
-# **Minecraft**
 ![Minecraft cover-1.png](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/a4228173-4847-4f60-a29d-35fdd14e6d45)
 
 
-- 《**[我的世界](https://zh.wikipedia.org/zh-cn/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C?wprov=sfla1)**》（英语：Minecraft，香港和台湾常用英文）是[微软](https://zh.wikipedia.org/wiki/%E5%BE%AE%E8%BD%AF)旗下[Mojang Studios](https://zh.wikipedia.org/wiki/Mojang_Studios)开发的[沙盒游戏](https://zh.wikipedia.org/wiki/%E6%B2%99%E7%9B%92%E6%B8%B8%E6%88%8F)。游戏中，玩家能在一个[3D](https://zh.wikipedia.org/wiki/%E4%B8%89%E7%BB%B4%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2)世界内与方块或生物进行交互。游戏中的特色功能包括探索世界、采集资源、合成物品及生存冒险等。《我的世界》有多种模式：生存模式中，玩家必须维持生命并开采资源以打造自己的世界；创造模式中，玩家拥有无限的资源并可自由地创作建筑。
+- 《**[我的世界](https://zh.wikipedia.org/zh-cn/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C?wprov=sfla1)**》（英语：**Minecraft**，香港和台湾常用英文）是[微软](https://zh.wikipedia.org/wiki/%E5%BE%AE%E8%BD%AF)旗下[Mojang Studios](https://zh.wikipedia.org/wiki/Mojang_Studios)开发的[沙盒游戏](https://zh.wikipedia.org/wiki/%E6%B2%99%E7%9B%92%E6%B8%B8%E6%88%8F)。游戏中，玩家能在一个[3D](https://zh.wikipedia.org/wiki/%E4%B8%89%E7%BB%B4%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2)世界内与方块或生物进行交互。游戏中的特色功能包括探索世界、采集资源、合成物品及生存冒险等。《我的世界》有多种模式：生存模式中，玩家必须维持生命并开采资源以打造自己的世界；创造模式中，玩家拥有无限的资源并可自由地创作建筑。
 
 > **详细可见**
 维基百科
