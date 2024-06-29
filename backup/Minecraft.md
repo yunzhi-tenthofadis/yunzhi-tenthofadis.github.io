@@ -53,7 +53,10 @@ https://mc.163.com/index.html
 > [!WARNING]
 > ~~**mcbbs**:https://www.mcbbs.net/~~  [已关站]
 
-
+- **国内游戏下载镜像站**
+长期以来，因为Mojang Studios的MC下载源在国外，以至于国内玩家下载MC本体的时候会很慢，有时候还会出现无法下载的情况，所以国内就出现了MC下载镜像源这种东西。镜像源共有两个，一个是由[bangbang93](https://afdian.net/a/bangbang93)开发并维护的BMCLAPI，还有一个是MCBBS基于BMCLAPI建立的镜像源。
+> [!CAUTION]
+> MCBBS镜像源于MCBBS中文论坛于2024年2月19日一同永久关闭，这导致了大量流量涌入了BMCLAPI使得BMCLAPI一度处于崩溃的边缘。
 
 
 > [!IMPORTANT]
