@@ -36,7 +36,7 @@ https://mc.163.com/index.html
 > BakaXL:https://www.bakaxl.com/
 ![OIP-C](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/5b9e9195-f550-488f-afb7-dc27846db42a)
 
-- 期中游玩全球版本可以通过为游戏加载 #NeoForge[原Forge]和fabric来为游戏加载mod并游玩
+- 期中游玩全球版本可以通过为游戏加载NeoForge[原Forge]和fabric来为游戏加载mod并游玩
 
 > NeoForge:https://neoforged.net/
 Forge:https://files.minecraftforge.net/net/minecraftforge/forge/
@@ -58,6 +58,8 @@ Fabric:https://fabricmc.net/
 ![MCNav](https://github.com/yunzhi-tenthofadis/yunzhi-tenthofadis.github.io/assets/144130279/cbd9ea69-e7bb-469d-961b-3217d3ba1362)
 
 > ~~mcbbs:https://www.mcbbs.net/~~  [已关站]
+
+#2 
 
 
 
