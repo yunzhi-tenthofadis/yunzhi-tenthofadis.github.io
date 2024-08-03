@@ -40,10 +40,10 @@ https://mc.163.com/index.html
 
 
 
-- 期中游玩全球版本可以通过为游戏加载[NeoForge](https://neoforged.net/)[原[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)]和[fabric](https://fabricmc.net/)来为游戏加载mod并游玩。
+- 期中游玩全球版本可以通过为游戏加载[NeoForged](https://neoforged.net/)，[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)和[fabric](https://fabricmc.net/)来为游戏加载mod并游玩。
 
 > [!NOTE]
-> **NeoForge**:https://neoforged.net/
+> **NeoForged**:https://neoforged.net/
 **Forge**:https://files.minecraftforge.net/net/minecraftforge/forge/
 **Fabric**:https://fabricmc.net/
 
